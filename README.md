@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ethanmil
+- 👀 I’m interested in programming, specifically SRE related things (Automation)
+- 🌱 I’m currently learning Golang, Game dev, SRE related things
+- 📫 How to reach me: ethanmillerindy@gmail.com
